@@ -4,3 +4,4 @@ print(Soma)
 A[4] = 100
 for i in A:
     print(i)
+
